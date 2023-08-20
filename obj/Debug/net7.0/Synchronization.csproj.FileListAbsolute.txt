@@ -1,0 +1,15 @@
+C:\Users\Daria\Desktop\Synchronization\obj\Debug\net7.0\Synchronization.csproj.AssemblyReference.cache
+C:\Users\Daria\Desktop\Synchronization\obj\Debug\net7.0\Synchronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\Desktop\Synchronization\obj\Debug\net7.0\Synchronization.AssemblyInfoInputs.cache
+C:\Users\Daria\Desktop\Synchronization\obj\Debug\net7.0\Synchronization.AssemblyInfo.cs
+C:\Users\Daria\Desktop\Synchronization\obj\Debug\net7.0\Synchronization.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Desktop\Synchronization\bin\Debug\net7.0\Synchronization.exe
+C:\Users\Daria\Desktop\Synchronization\bin\Debug\net7.0\Synchronization.deps.json
+C:\Users\Daria\Desktop\Synchronization\bin\Debug\net7.0\Synchronization.runtimeconfig.json
+C:\Users\Daria\Desktop\Synchronization\bin\Debug\net7.0\Synchronization.dll
+C:\Users\Daria\Desktop\Synchronization\bin\Debug\net7.0\Synchronization.pdb
+C:\Users\Daria\Desktop\Synchronization\obj\Debug\net7.0\Synchronization.dll
+C:\Users\Daria\Desktop\Synchronization\obj\Debug\net7.0\refint\Synchronization.dll
+C:\Users\Daria\Desktop\Synchronization\obj\Debug\net7.0\Synchronization.pdb
+C:\Users\Daria\Desktop\Synchronization\obj\Debug\net7.0\Synchronization.genruntimeconfig.cache
+C:\Users\Daria\Desktop\Synchronization\obj\Debug\net7.0\ref\Synchronization.dll
